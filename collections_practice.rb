@@ -27,7 +27,7 @@ end
 
 def kesha_maker(array)
   array.each do |words|
-    words.slice[2] = $
+    words.slice[2] = "$"
   end
 end
 
